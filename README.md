@@ -9,7 +9,10 @@
 
 [![Repo stars](https://img.shields.io/github/stars/PetyXbron/minecraft-bot?style=flat&logo=github&labelColor=232121&color=24B712&label=Stars)](https://github.com/PetyXbron/minecraft-bot/stargazers) [![Repo forks](https://img.shields.io/github/forks/PetyXbron/minecraft-bot?style=flat&logo=github&labelColor=232121&color=24B712&label=Forks)](https://github.com/PetyXbron/minecraft-bot/network) [![Latest master version](https://img.shields.io/github/package-json/version/PetyXbron/minecraft-bot?color=24B712&label=Master&labelColor=232121&logo=github&sort=semver&style=flat)](https://github.com/PetyXbron/minecraft-bot/tree/main/) [![Latest dev version](https://img.shields.io/github/package-json/version/PetyXbron/minecraft-bot/dev?color=24B712&label=Dev&labelColor=232121&logo=github&sort=semver&style=flat)](https://github.com/PetyXbron/minecraft-bot/tree/dev/) [![Repo license](https://img.shields.io/github/license/PetyXbron/minecraft-bot?style=flat&logo=github&labelColor=232121&color=24B712&label=License)](https://github.com/PetyXbron/minecraft-bot/blob/main/LICENSE) [![Languages](https://img.shields.io/badge/7-24B712?style=flat&logo=crowdin&labelColor=232121&label=Languages)](https://crowdin.com/project/minecraft-bot)
 
-**This project uses MSC API ([mcstatus.io](https://mcstatus.io)) for getting status of Minecraft servers.**
+## RELATED / SUPPORTED PROJECTS
+- Minecraft servers from [mcstatus.io](https://mcstatus.io) API (since 1.7.0)
+- Translations by [Crowdin](https://github.com/crowdin) (since 1.7.2)
+- [Docker](https://github.com/docker) (since 1.7.4)
 
 ## REQUIREMENTS
 - **Need to install:**

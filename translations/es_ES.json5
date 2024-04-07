@@ -20,7 +20,7 @@
         "fields": {
           "1": {
             "name": "Info del bot:",
-            "value": "> **Prefijo:** `{bot.prefix}`\n> **Fijación:** `{bot.ping}`\n> **Tiempo de actividad:** `{bot.uptime}`"
+            "value": "> **Prefijo:** `{bot.prefix}`\n> **Ping:** `{bot.ping}`\n> **Tiempo de actividad:** `{bot.uptime}`"
           },
           "2": {
             "name": "Discord {server.name}:",

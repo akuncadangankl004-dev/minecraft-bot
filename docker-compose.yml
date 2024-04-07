@@ -1,0 +1,9 @@
+services:
+  minecraft-bot:
+    container_name: minecraft-bot
+    build:
+      context: .
+      dockerfile: Dockerfile
+    volumes:
+      - ./config:/app/config
+    restart: unless-stopped
